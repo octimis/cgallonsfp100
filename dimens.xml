@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_height">40dp</dimen>
+    <dimen name="textview_width">150dp</dimen>
+    <dimen name="ball_radius">30dp</dimen>
+    <dimen name="font_size">19sp</dimen>
+    <dimen name="edtxt_height">60dp</dimen>
+    <dimen name="edtxt_width">150dp</dimen>
+    <dimen name="edtxt_font_size">34sp</dimen>
+</resources>
